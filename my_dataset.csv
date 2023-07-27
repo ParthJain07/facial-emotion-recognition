@@ -1,0 +1,5 @@
+Age,Gender,Employed,Education Level,Income,City,Number of Children,Health Condition,Smoking Habits,Hobbies,Target
+35,Male,True,Bachelor's,50000,New York,2,Good,False,"Reading, Swimming",Positive
+45,Female,True,Master's,75000,London,1,Excellent,True,"Painting, Cooking",Positive
+28,Male,False,High School,25000,Paris,0,Fair,False,"Gaming, Writing",Negative
+50,Female,True,PhD,100000,Sydney,3,Good,True,"Dancing, Traveling",Positive
